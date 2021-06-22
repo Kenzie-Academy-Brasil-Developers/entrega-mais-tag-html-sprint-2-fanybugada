@@ -1,0 +1,75 @@
+body {
+    background: black;
+}
+
+section {
+    background: rgb(18, 18, 18);
+    text-align: center;
+}
+
+h1, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 43px;
+    font-weight: 500;
+}
+
+h2 {
+    margin-top: 0;
+    /* margin-bottom: 35px; */
+    font-size: 23px;
+    color: darkgray;
+}
+
+h6 {
+    font-size: xx-small;
+}
+
+header {
+    font-size: larger;
+    color: rgb(132, 0, 255);
+    background: rgb(22, 22, 22);
+    padding: 23px;
+    display: flex;
+}
+
+div#one {
+    background: rgb(17, 17, 17);
+    color: darkgray;
+    padding: 40px;
+}
+div#two {
+    background: black;
+    color:rgb(114, 114, 114);
+    padding: 40px;
+}
+
+footer {
+    padding: 40px;
+    font-style: italic;
+}
+
+#cabecalho {
+    flex: auto;
+    margin-right: 100px;
+}
+
+hr {
+    opacity: 25%;
+}
+
+ol, ul, li {
+    list-style: none;
+    padding: 6px;
+}
+
+summary {
+    color: darkgray;
+}
+
+#redes {
+    padding: 10px;
+}
